@@ -6,10 +6,6 @@ public class Day2WHW3 {
 		
 		System.out.println("Day 2 HW3");
 	}
-    public void add() {
-    	System.out.println("a+b");
-    }
-     public void add2() {
-    	 System.out.println("a+b");
+    
      }
-}
+
